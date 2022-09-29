@@ -1,0 +1,4 @@
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+pandas==1.4.2
+streamlit==1.13.0
+numpy @ file:///opt/concourse/worker/volumes/live/a3493aeb-202b-43d0-6a51-0a73ce7c0029/volume/numpy_and_numpy_base_1649782777974/work
